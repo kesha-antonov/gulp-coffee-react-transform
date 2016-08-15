@@ -20,7 +20,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "coffee-react-transform": "^3.2.0",
+    "coffee-react-transform": "^4.0.0",
     "gulp": "^3.9.0",
     "gulp-util": "^3.0.6",
     "through2": "^2.0.0"
