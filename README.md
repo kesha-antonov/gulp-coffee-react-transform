@@ -1,4 +1,4 @@
-** I'm foring that for using the latest [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) (3.2.x) **
+** I'm foring that for using the latest [coffee-react-transform](https://github.com/jsdf/coffee-react-transform) (4.0.0) **
 
 gulp-coffee-react-transform
 ===========================
